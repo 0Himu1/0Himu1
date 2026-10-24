@@ -1,27 +1,32 @@
-# 💫 About Me:
-I'm currently learning full-stack development. 
+# Kamruzzaman Khondokar
 
+**Full-Stack Developer · Dhaka, Bangladesh**
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Himu#7100) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/himu_nazmul) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kamruzzaman-khondokar) 
+I build web applications that solve day-to-day business problems. With three years of MERN stack experience, I work across system architecture, backend APIs, frontend interfaces, and deployment, helping founders and teams turn requirements into working products.
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=0himu1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=0himu1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=0himu1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[Portfolio](https://himunazmul.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/kamruzzaman-khondokar) · [Email](mailto:contact.kknazmul@gmail.com) · [Resume](resume.pdf)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+## Experience
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=0himu1&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- **GrowB — Co-founder:** Build the agency's website and client-facing assets, alongside campaign strategy and analytics.
+- **Solution Provider — Full-Stack Developer, previously Web Developer:** Built and deployed a machine control application. Owned architecture, APIs, UI, and deployment; led a small development team and worked directly with clients.
+- **Inspire IT Academy — Web Developer:** Built responsive applications with React and WordPress, and supported conversion tracking.
+- **Freelance IT Lab — Web Designer:** Created HTML/CSS websites around client needs and brand identity.
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+## Tech stack
 
----
-[![](https://visitcount.itsvg.in/api?id=0himu1&icon=0&color=3)](https://visitcount.itsvg.in)
+**Frontend:** React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Backend:** Node.js, Express.js, MongoDB, Mongoose
+
+**Tools & deployment:** Git, Docker, GitHub Actions, AWS, Vercel, Figma
+
+## What I've built
+
+- **Machine Control App:** A production application for monitoring and controlling physical machine operations.
+- **CutPlan Studio / Cabinet Configurator:** Developing tools for board cutting plans and CNC fabrication workflows.
+- **Letterhead Maker:** A Next.js tool that generates branded, print-ready PDF letterheads.
+
+## Education
+
+Diploma in Electrical Technology — Govt. Technical School & College, Chattak.
